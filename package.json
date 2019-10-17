@@ -1,0 +1,11 @@
+{
+  "name": "nodejsdemo",
+  "version": "1.0.0",
+  "description": "nodejs ci/cd",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "cuongnv",
+  "license": "ISC"
+}
